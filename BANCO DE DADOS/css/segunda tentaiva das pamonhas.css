@@ -1,0 +1,96 @@
+<html>
+<style>
+#alerts {
+	margin:0 auto;
+	text-align: center;
+	width: 1000px;
+	height: 100px;
+}
+#titulo{
+	font-family: cursive;
+	font-size: 50px;
+	color: #696969;
+	background-color:DodgerBlue;
+	width: 1400px;
+	height: 100px;
+	margin-top: 50px;
+	justify-content: 50px;
+	}
+	</style>
+
+<head id="alertas">
+		</head>
+<title> </title>
+</head>
+<center> <h1 id="titulo"> Banco de Dados </h1> </center>
+		 <h1 id="titulo"> <font size="12" Banco de Dados</blink> </font> </p> 
+			<marquee scrolldelay=100> <img src="ddb2.jpg" width="10%" alt="banco de dados" title="banco de dados"/> </marquee>
+	<br>
+	<center> <p> <font size="10" color="#8b0000" face="Time new Romam"> <blink>Dados x Informações</blink> </font> </p> </center> 
+		<border="1" bgcolor="#ffffe0">
+		<td>	
+			<CENTER> <font color="#ff0000" line-height:15px face="Time new roman"> <h1> <p> Dados </p> </h1> </CENTER> 
+				<font color="#000000"  face="times new roman"> <td align="justify">
+<center> <p> <h3> <i> "Não possui significado relevante e não conduz a nenhuma compreensão."</p> </i> </h3> </center>
+<p> <h4>Dados são fatos isolados sem valor entre si. Dados são, por exemplo, nome, idade, RG, CPF, data de nascimento e assim por diante. Tudo que aparece de forma primária pode ser considerado como dados.
+<br>
+Antes de serem organizados e relacionados não se é possível tirar deles informações.
+<br>
+Em um banco de dados se é possível ter backups, interfaceamente, controle de integridade, padronizações, restrições de segurança, compartilhamento de dados, controle de redundâncias, controle de dados, esquematização e independência de dados.
+<br>
+Para poder controlar um banco de dados existem sistemas que te auxiliam como, por exemplo:
+<br>
+ORACLE, MY SQL, SQL SERVER, POSTGRESQL, IBM/DB2, MARIA DB e MICROSOFT ACCESS. 
+<br>
+<img src="dados.2.jpg" width="10%"> 
+<font color="#8b0000" line-height:15px face="Time new roman"> <h2> <p> O que é um Banco de Dados </p> </h2> 
+<font color="#000000"  face="Times New Roman"> <td align="justify">
+<p> <h4>Uma das definições de banco de dados afirma que se trata de uma coleção de informações que se relacionam de modo que criem algum sentido, isto é, é uma estrutura bem organizada de dados que permite a extração de informações. Assim, são muito importantes para empresas e tornaram-se a principal peça dos sistemas de informação.
+<br>
+Além dos dados, um banco de dados também é formado pelos metadados. Um metadado é todo dado relativo a outro dado, sem o qual não seria possível organizar e retirar as informações de um banco de dados.
+<br>
+Alguns afirmam que a expressão é sinônimo de SGBD (Sistema Gerenciador de Banco de Dados), que é um programa de gerenciamento de dados. O termo “banco de dados” também é usado para definir uma base de dados, que é um grupo de dados agrupados por um SGBD.
+<br>
+O SGBD usa uma linguagem para criar a base de dados, sendo que, atualmente, a mais usada é a SQL (Structured Query Language). São vários os SGBDs disponíveis no mercado; alguns são pagos e outros gratuitos.
+<br>
+ <font color="#8b0000" line-height:15px face="Time new roman"> <h2> <p> Alguns dos tipos de SGBD existentes no mercado:</p> </h2>
+<font color="#000000"  face="Times New Roman"> <td align="justify">  
+<p> <h4>SQLServer: Um dos maiores do mundo, sob licença da Microsoft;
+MySQL: Trata-se de um software livre, com código fonte aberto;
+FirebirdSQL: Possui código fonte aberto e roda na maioria dos sistemas Unix;
+Microsoft Access: É um Sistema Gerenciador de Banco de Dados que acompanha o pacote Office da Microsoft. Este SGBD tem poucas atribuições profissionais, sendo mais usado para aprendizagem, devido à sua interface amigável;
+mSQL: Sistema pequeno e que trabalha mais com o uso eficiente da memória. Foi criado pela Hughes Technologies Pty Ltd.
+No armazenamento de um dado, é necessário criar tabelas, dentro das quais são criadas colunas, onde serão guardadas as informações. Para que os dados presentes na base de dados fiquem bem organizados, as tabelas devem ser criadas para que não misturem as informações.
+
+ 		<border="1" bgcolor="#ffffe0">
+ 		<br>
+ 		<br>
+ 		<br>
+		<td>	
+			<div> <font color="#8b0000" line-height:15px face="Time new roman"> <h2> <p> Informações </p> </h2> </center>
+			<br>
+			<font color="#000000"  face="times new roman">
+			<br> 
+			<table>
+					<td>
+<p> <h4>Informações são dados relacionados ou processados ganhando valor.
+<br>
+Assim que os dados ficam organizados e colocados de maneira significativa eles transformam-se em informações.
+<br>
+Informação remete ao fato de que quando os dados são reunidos acabam diminuindo e muito os níveis de incertezas do assunto ao qual ele esteja relacionado.
+Ela também esclarece o funcionamento de algum sistema ou processo.
+Ter acesso a informações clareia as ideias e ajuda nas tomadas de decisões, tendo sempre como base o conhecimento de tal situação. quanto mais certa for a informação, melhor será a comunicação.
+</h4> </p> </td>   
+</table>
+<br>
+<br>
+
+		<center>	
+		 <td> <tr> <tr> <video width="540" heigth="440" controls="controls" play="play"> 
+		<source src="videoplayback.mp4" type="video/mp4">
+		</object> </td> </tr> </tr>  </video>             
+          <td> <tr> <tr> <video width="540" heigth="460" controls="controls" play="play"> 
+		<source src="a origem do banco de dados.mp4" type="video/mp4">
+		</object> </td> </tr> </tr> </video> </center> 
+</body>
+</html>

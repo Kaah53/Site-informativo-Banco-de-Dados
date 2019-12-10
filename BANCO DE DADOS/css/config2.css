@@ -1,0 +1,58 @@
+body{
+	
+	background-color:;
+
+}
+
+p{
+width: 25vw;
+height: 90vh;
+font-size: 30px;
+color: white;
+font-family: Time new roman;
+margin: 10%;
+}
+
+
+.titulo{
+width: ;
+height: ;
+font-size: 80px;
+color:white;
+font-family: arial;
+margin: 10%;
+position: absolute;
+
+
+
+
+}
+
+
+.p2{
+width: 25vw;
+height: 66vh;
+font-size: 30px;
+color:white;
+font-family: time nem roman;
+margin: 10%;
+position: absolute;
+top: 30%;
+left: 40%;
+margin-right: -40%;
+transform: translate(-45%,-45%);
+}
+
+.p3{
+width: 25vw;
+height: 66vh;
+font-size: 30px;
+color:white;
+font-family: time nem roman;
+margin: 10%;
+position: absolute;
+top: 20%;
+left: 90%;
+margin-right: -40%;
+transform: translate(10%,-30%);  
+}
